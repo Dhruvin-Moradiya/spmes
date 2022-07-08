@@ -1,4 +1,3 @@
-from tkinter import Widget
 from django import forms
 
 from accounts.models import project, committee,faculty, assignment, schedule
